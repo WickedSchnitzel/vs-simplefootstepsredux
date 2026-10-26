@@ -288,47 +288,6 @@
     },
 
     {
-        "mobMatchCode": "bear",
-        "soundTrigger": "wander",
-        "soundFile": "simplefootstepsredux:sounds/creature/steps/drifter",
-        "soundTime": 0.65,
-        "volume": 0.93,
-        "changepitch": true
-    },
-    {
-        "mobMatchCode": "bear",
-        "soundTrigger": "fleeentity",
-        "soundFile": "simplefootstepsredux:sounds/creature/steps/drifter",
-        "soundTime": 0.48,
-        "volume": 1,
-        "changepitch": true
-    },
-    {
-        "mobMatchCode": "bear",
-        "soundTrigger": "seekentity",
-        "soundFile": "simplefootstepsredux:sounds/creature/steps/drifter",
-        "soundTime": 0.48,
-        "volume": 1,
-        "changepitch": true
-    },
-    {
-        "mobMatchCode": "bear",
-        "soundTrigger": "stayclosetoentity",
-        "soundFile": "simplefootstepsredux:sounds/creature/steps/drifter",
-        "soundTime": 0.48,
-        "volume": 1,
-        "changepitch": true
-    },
-    {
-        "mobMatchCode": "bear",
-        "soundTrigger": "getoutofwater",
-        "soundFile": "simplefootstepsredux:sounds/creature/steps/water",
-        "soundTime": 1,
-        "volume": 0.85,
-        "changepitch": true
-    },
-
-    {
         "mobMatchCode": "gazelle",
         "soundTrigger": "wander",
         "soundFile": "simplefootstepsredux:sounds/creature/steps/npc",
@@ -526,47 +485,6 @@
     },
     {
         "mobMatchCode": "sheep",
-        "soundTrigger": "getoutofwater",
-        "soundFile": "simplefootstepsredux:sounds/creature/steps/water",
-        "soundTime": 1,
-        "volume": 0.65,
-        "changepitch": true
-    },
-
-    {
-        "mobMatchCode": "wolf",
-        "soundTrigger": "wander",
-        "soundFile": "simplefootstepsredux:sounds/creature/steps/npc",
-        "soundTime": 0.65,
-        "volume": 0.7,
-        "changepitch": true
-    },
-    {
-        "mobMatchCode": "wolf",
-        "soundTrigger": "fleeentity",
-        "soundFile": "simplefootstepsredux:sounds/creature/steps/npc",
-        "soundTime": 0.1,
-        "volume": 1,
-        "changepitch": true
-    },
-    {
-        "mobMatchCode": "wolf",
-        "soundTrigger": "seekentity",
-        "soundFile": "simplefootstepsredux:sounds/creature/steps/npc",
-        "soundTime": 0.1,
-        "volume": 1,
-        "changepitch": true
-    },
-    {
-        "mobMatchCode": "wolf",
-        "soundTrigger": "stayclosetoentity",
-        "soundFile": "simplefootstepsredux:sounds/creature/steps/npc",
-        "soundTime": 0.1,
-        "volume": 1,
-        "changepitch": true
-    },
-    {
-        "mobMatchCode": "wolf",
         "soundTrigger": "getoutofwater",
         "soundFile": "simplefootstepsredux:sounds/creature/steps/water",
         "soundTime": 1,
