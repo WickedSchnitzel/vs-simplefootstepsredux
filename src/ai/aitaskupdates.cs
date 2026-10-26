@@ -214,7 +214,7 @@ namespace SimpleFootStepsRedux
 
         float volume = 1;
 
-        float range = 32;
+        float stepSoundRange = 32;
 
         bool changepitch = true;
 
@@ -243,7 +243,7 @@ namespace SimpleFootStepsRedux
 
             if (stepTimer >= stepTimerStop)
             {
-                world.PlaySoundAt(stepSound, entity.Pos.X, entity.Pos.Y, entity.Pos.Z, null, true, range, volume);
+                world.PlaySoundAt(stepSound, entity.Pos.X, entity.Pos.Y, entity.Pos.Z, null, true, stepSoundRange, volume);
                 stepTimer = 0;
             }
 
